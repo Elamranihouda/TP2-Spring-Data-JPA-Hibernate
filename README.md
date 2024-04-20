@@ -1,1 +1,1 @@
-## Activité Pratique N° 1- Injection des dépendances
+## Activité Pratique N°2 - Spring Data JPA Hibernate
