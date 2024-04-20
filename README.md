@@ -1,1 +1,2 @@
 ## Activité Pratique N°2 - Spring Data JPA Hibernate
+##### L'activité pratique N°2 se concentre sur l'utilisation de Spring Data JPA Hibernate pour la gestion des données dans une application Spring Boot. Cette activité vous permettra de comprendre les concepts de base de Spring Data JPA et de mettre en œuvre des opérations CRUD (Create, Read, Update, Delete) sur une base de données relationnelle.L'activité sert également à apprendre à configurer différentes bases de données, telles que H2 et MySQL, et à effectuer une migration entre elles.
